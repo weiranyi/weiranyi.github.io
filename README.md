@@ -6,7 +6,6 @@
 
 ### 博客
 - 知乎个人主页： [链接🔗](https://www.zhihu.com/people/leo_logic/posts)
-- 个人博客主页：[链接🔗](http://www.leologic.top)
 
 ### 一句话
 - 不忘初心，实事求是，独立自主
